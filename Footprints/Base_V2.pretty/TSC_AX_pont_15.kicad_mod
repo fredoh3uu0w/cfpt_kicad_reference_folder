@@ -1,0 +1,16 @@
+(module TSC_AX_pont_15 (layer F.Cu) (tedit 52B6D012)
+  (fp_text reference TSC_AX_pont_15 (at 0 -1.75) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.2)))
+  )
+  (fp_text value VAL** (at 0 2) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.2)))
+  )
+  (fp_line (start -6.25 0) (end 6.25 0) (layer F.SilkS) (width 0.15))
+  (pad 1 thru_hole circle (at -7.50062 0) (size 2 2) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
+  (pad 2 thru_hole circle (at 7.50062 0) (size 2 2) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
+  (model BASE_V2/3D/TSC_AX_pont_15.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)

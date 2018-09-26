@@ -1,0 +1,23 @@
+(module TSC_CP_CYL_5_12,5 (layer F.Cu) (tedit 52C64E5C)
+  (fp_text reference TSC_CP_CYL_5_12,5 (at 0 -8) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.2)))
+  )
+  (fp_text value VAL** (at 0 8.25) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.2)))
+  )
+  (fp_circle (center 0 0) (end 6.25 0) (layer F.SilkS) (width 0.381))
+  (fp_line (start -4.40948 -0.03898) (end -5.41024 -0.03898) (layer F.SilkS) (width 0.381))
+  (fp_line (start -4.89986 -0.53936) (end -4.89986 0.45886) (layer F.SilkS) (width 0.381))
+  (pad 1 thru_hole circle (at -2.49936 0) (size 1.99898 1.99898) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
+  (pad 2 thru_hole rect (at 2.49936 0) (size 1.99898 1.99898) (drill 0.8001) (layers *.Cu *.Mask F.SilkS))
+  (model BASE_V2/3D/TSC_CP_CYL_5_12,5_20.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model BASE_V2/3D/TSC_CP_CYL_5_12,5_25.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)

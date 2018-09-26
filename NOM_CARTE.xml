@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>E:/KiCad/KiCad_Modele_Projet_2018-09-02/NOM_CARTE.sch</source>
+    <date>03.09.2018 09:51:32</date>
+    <tool>Eeschema 4.0.7</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>NOM CARTE</title>
+        <company>CFPT - Ecole d'électronique</company>
+        <rev>1.0</rev>
+        <date/>
+        <source>NOM_CARTE.sch</source>
+        <comment number="1" value="Nom Prénom Classe"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components/>
+  <libparts/>
+  <libraries/>
+  <nets/>
+</export>
