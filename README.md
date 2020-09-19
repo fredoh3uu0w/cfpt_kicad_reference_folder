@@ -1,3 +1,6 @@
+** Version utilisée pour des essais, ne pas utiliser!!!! **
+
+
 # cfpt_kicad_reference_folder
 
 Télécharger le « repository » en cliquant sur le bouton « Clone or download » puis sélectionner « Download ZIP ».
