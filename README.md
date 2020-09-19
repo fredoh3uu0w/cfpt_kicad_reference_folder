@@ -1,4 +1,4 @@
-** Version utilisée pour des essais, ne pas utiliser!!!! **
+**Version utilisée pour des essais, ne pas utiliser!!!!**
 
 
 # cfpt_kicad_reference_folder
